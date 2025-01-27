@@ -1,0 +1,19 @@
+Product Management
+  >Add Product
+  >Get Product
+  >Filter Product
+  >Rate Product
+
+User Management
+  >Sign up
+  >Sign in
+
+cart Management
+  >Add to cart
+  >Remove from cart
+  >Get cart items
+
+Order Management
+  >Place Order
+  >Update status
+  >Get status
